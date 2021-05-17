@@ -3,3 +3,8 @@
 ################################################################################
 
 /src/TechStart.HealthCheck/bin/Debug/netcoreapp3.1
+/src/TechStart.HealthCheck/obj
+/src/TechStart_Test/.vs/TechStart_Test
+/src/TechStart_Test/obj
+/src/TechStart_Test/bin/Debug/netcoreapp3.1
+/.vs
